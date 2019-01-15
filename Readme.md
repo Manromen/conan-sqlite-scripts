@@ -1,6 +1,6 @@
 # Conan SQLite
 
-This repository contains the conan receipe that is used to build the CNats packages at [rgpaul bintray](https://bintray.com/manromen/rgpaul).
+This repository contains the conan receipe that is used to build the SQLite packages at [rgpaul bintray](https://bintray.com/manromen/rgpaul).
 
 For Infos about the SQLite library please visit [sqlite.org](https://sqlite.org/).
 The library is in the [Public Domain](https://sqlite.org/copyright.html).
